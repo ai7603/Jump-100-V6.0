@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: b95ab56528a47094781c968359275a06
+timeCreated: 1500016718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: game-tiles-batman_X_0
+    21300002: game-tiles-batman_X_1
+    21300004: game-tiles-batman_X_2
+    21300006: game-tiles-batman_X_3
+    21300008: game-tiles-batman_X_4
+    21300010: game-tiles-batman_X_5
+    21300012: game-tiles-batman_X_6
+    21300014: game-tiles-batman_X_7
+    21300016: game-tiles-batman_X_8
+    21300018: game-tiles-batman_X_9
+    21300020: game-tiles-batman_X_10
+    21300022: game-tiles-batman_X_11
+    21300024: game-tiles-batman_X_12
+    21300026: game-tiles-batman_X_13
+    21300028: game-tiles-batman_X_14
+    21300030: game-tiles-batman_X_15
+    21300032: game-tiles-batman_X_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-tiles-batman_X_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 312
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 661
+        width: 111
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 981
+        width: 115
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 812
+        width: 113
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 963
+        width: 115
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_5
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 933
+        width: 120
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 948
+        width: 120
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 914
+        width: 121
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 461
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 476
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_10
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 816
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 589
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 664
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 641
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_15
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 345
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game-tiles-batman_X_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 732
+        width: 117
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
